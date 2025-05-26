@@ -41,7 +41,6 @@ This project focuses on interpreting ASL hand gestures through an image classifi
 ## 📈 Results
 
 - Final Validation Accuracy: **82.3%**
-- Most Accurate Class: `nothing` (100%)
 - Most Misclassified: `U` ↔ `R`, `N` ↔ `M`
 
 ## 🖥️ Live Demo
